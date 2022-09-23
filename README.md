@@ -24,12 +24,13 @@ It allows user to add ,edit and delete tasks they want to work on ,and also mark
 
 https://things-todo-list-app.netlify.app
 
-## Installation 💾
+## Getting Started 💾
 
 ```
-git clone https://github.com/sonamgupta21/Things-To-Do.git
 npm install
 npm run start
+
+// Project will be running locally on localhost:3000.
 ```
 
 ## Code Example/Issues 🔍
